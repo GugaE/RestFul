@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.restfulweb.interfaces;
+package com.restfulweb.dao.interfaces;
 
 /**
  * @author gustavo
@@ -9,4 +9,8 @@ package com.restfulweb.interfaces;
  */
 public interface UsuarioDaoInter {
 
+	
+	
+	
+	
 }

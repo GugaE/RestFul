@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.restfulweb.interfaces;
+package com.restfulweb.dao.interfaces;
 
 /**
  * @author gustavo
